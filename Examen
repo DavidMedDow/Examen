@@ -1,0 +1,81 @@
+<HTML>
+    <HEAD>
+        <TITLE>Examen P2</TITLE>
+        <link rel="stylesheet"
+        type="text/css" href="Examen.css">
+    </HEAD>
+    <BODY>
+      <h1>Parte 1</h1>
+
+        <h4>- What is iterative design? Explain its importance in interaction design.</h4>
+          <p>El diseno interactivo se basa en la comunicacion entre el usuario y la computadora, esto es muy importante ya que sin el, la forma en que te comunicarias con la computadora seria muy incomoda y dificil</p>
+          <p></p>
+
+        <h4>- Explain, in your project, how do you achieve the following: action, knowledge, passion.</h4>
+          <p>Accion: hemos creado varias paginas dentro de nuestro proyecto de las cuales la mayoria ya esta al 80% de ser terminadas.</p>
+          <p>Conocimiento: En este proyecto tuvimos que implementar todo lo que sabiamos para poder lograrlo ademas de que tuvimos que investigar para poder hacer algunas cosas para que la pagina luciera mejor, por ejemplo, la creacion de botones que hicieran aparecer y desaparecer el texto.</p>
+          <p>Pasion: Me he interesado mucho en este proyecto, no tanto por el problema que elegimos, sino por el hecho de que el diseno de paginas web me ha llamado la atencion y me ha estado gustando mucho y quiero que esta pagina quede muy bien.</p>
+          <p></p>
+
+        <h4>- Create your own methodology to develop a user interface. It is important to justify all the steps.</h4>
+          <p>Tiene que ser intuitivo porque de lo contrario el usuario tendria muchos problemas para adaptarse a la pagina la primera vez que la use.</p>
+          <p>No tiene que estar saturada de informacion porque de ser asi el usuario se cansaria y se iria.</p>
+          <p>Tiene que tener una buena combinacion de los colores, se tienen que complementar entre si.</p>
+          <p>No usar todo lo que sepas para la pagina, ya que muchas veces no es necesario y solo perjudicaria a como se ve la pagina.</p>
+          <p></p>
+
+        <h4>- Explain the status of your project. Grade it according to your effort (30%) and results (70%).</h4>
+          <p>El proyecto va con buen ritmo y siento que estamos avanzando de buena forma y que hemos hecho muchas cosas para mejorar la pagina desde que empezamos.</p>
+          <p>En esfuerzo yo me daria un 25% porque he llegado un poco tarde a algunas clases.</P>
+          <p>En resultados yo daria un 60% porque siento que la pagina va muy bien, pero tambien siento que todavia le falta un poco a la pagina, es por eso que no siento que tenga un 70%.</p>
+          <p></p>
+
+        <h4>- Make a basic business proposal for your solution. (10 points)</h4>
+          <p>El tiempo que espero tardar realizando esta propuesta desde que comenzamos hasta que logramos establecer todo es de 5 anios. Porque siento que para que la gente tome conciencia sobre esto va a llevar mucho tiempo y tambien para que se adapten a las nuevas reglas</P>
+          <p>El costo del proyecto seria de 300,000 pesos al anio, esto seria mas que nada por todo los botes que queremos poner en el area de Guadalajara asi como tambien todo el personal que se necesitaria para poder cubrir toda el area</p>
+          <p>El valor agregado es el uso que le dariamos a las redes sociales asi como tambien a la creacion de una pagina web para poder llamar la atencion de las personas, estariamos en movimiento constante tratando de mejorar nuestra solucion, viendo que todo este funcionando correctamente y reclutando a mas personas para que nos ayuden de forma voluntaria, de esta manera progresariamos mas rapido y sin aumentar el costo.</p>
+          <p></p>
+
+        <h1>Parte 2</h1>
+
+          <h2>CASE I:  Your Project Solution in a iWatch</h2>
+            <h4>Ask 4 relevant questions to the user. Imagine that you are the user and answer the questions.</h4>
+              <p>1.- Para que usas tu celular?</p>
+                <p>Para comunicarme con las personas y entretenimiento multimedia, por ejemplo, youtube y musica</p>
+
+              <p>2.- Cual es tu aplicacion mas usada en el celular</p>
+                <p>Whatsapp, facebook y youtube</p>
+
+              <p>3.- Cual es tu sitio web favorito?</p>
+                <p>Facebook y youtube.</p>
+
+              <p>4.- Que haces en tus tiempos libres?</p>
+                <p>Jugar videojuegos.</p>
+
+              <p></p>
+
+            <h4>Search the interaction methods between the user and iWatch. Select the methods for your project. Explain.</h4>
+              <p>Poder contestar mensajes desde tu reloj inteligente.</p>
+              <p>Poder tomar fotos y compartirlas con los demas sin necesidad de sacar tu celular.</p>
+              <p>Estar en constante comunicacion ya que te llegan los mensajes y las notificaciones directo a tu reloj</p>
+              <p>Para poder ver la hora y no llegar tarde a tus reuniones.</p>
+              <p></p>
+
+            <h4>According to your strategic goal define a task and then define the steps. Develop one mockup for your project.</h4>
+              <p>Nuestra meta estrategica es llegar a una gran cantidad de personas, por sobre todo los jovenes ya que ellos son los que haran un cambio en el futuro y necesitamos orientarlos.</p>
+              <p>Los pasos que necesitares hacer para eso son los siguientes:</p>
+              <ul>
+                  <li> Usar las redes sociales para llegar a las personas.</li>
+                  <li> Hacer eventos con instituciones para hablar sobre el tema.</li>
+                  <li>Publicidad en las calles y locales que frecuenten las personas.</li>
+              </ul>
+              <p></p>
+
+            <h4>Invent a way to evaluate your mockups.</h4>
+              <p>Para poder evaluar si la pagina es funcional hariamos encuentas entre las personas mostrandoles un prototipo del proyecto y de esta forma veriamos que es viable y que no lo es y podriamos cambiar lo que no lo sea.</p>
+              <p></p>
+
+            <h1>Parte 3</h1>
+              <p>En esta pagina puse el google analytics: https://davidmeddow.github.io/Fundamentos/</p>
+    </BODY>
+</HTML>
